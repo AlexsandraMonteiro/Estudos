@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Programa para calcular a média de notas de um aluno
+// e determinar se ele foi aprovado, reprovado ou está em recuperação.
+
+using System;
 using System.Text;
 
 namespace Ex1

@@ -1,0 +1,8 @@
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\bin\Debug\Ex2.exe.config
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\bin\Debug\Ex2.exe
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\bin\Debug\Ex2.pdb
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\obj\Debug\Ex2.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\obj\Debug\Ex2.exe
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\obj\Debug\Ex2.pdb
+C:\Users\Pichau\Documents\Faculdade\C#\Ex2\obj\Debug\Ex2.exe.config
