@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\bin\Debug\net8.0\Ex9.exe
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\bin\Debug\net8.0\Ex9.deps.json
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\bin\Debug\net8.0\Ex9.runtimeconfig.json
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\bin\Debug\net8.0\Ex9.dll
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\bin\Debug\net8.0\Ex9.pdb
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.AssemblyInfo.cs
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.sourcelink.json
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.dll
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\refint\Ex9.dll
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.pdb
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\Ex9.genruntimeconfig.cache
+C:\Users\Pichau\Documents\GitHub\Estudos\C#\Ex9\obj\Debug\net8.0\ref\Ex9.dll
