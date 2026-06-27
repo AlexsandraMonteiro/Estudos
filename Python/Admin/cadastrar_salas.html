@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastrar Sala</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <main class="cadastro-sala-container">
+        <div class="cadastro-sala-box">
+            <h1>Cadastrar Nova Sala</h1>
+            <form id="cadastrarSalaForm">
+                <div class="input-group">
+                    <label for="nomeSala">Nome da Sala</label>
+                    <input type="text" id="nomeSala" name="nomeSala" required>
+                </div>
+                <div class="input-group">
+                    <label for="capacidade">Capacidade Máxima</label>
+                    <input type="number" id="capacidade" name="capacidade" min="1" required>
+                </div>
+                <button type="submit">Cadastrar Sala</button>
+            </form>
+            <a href="admin.html" class="btn-voltar">Voltar</a>
+        </div>
+    </main>
+    <script src="../scripts.js"></script>
+</body>
+</html>
